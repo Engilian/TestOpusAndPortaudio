@@ -9,7 +9,7 @@ CONFIG -= app_bundle
 
 TEMPLATE = app
 
-DESTDIR = ../../dist/test
+DESTDIR = dist
 
 SOURCES += main.cpp
 
